@@ -1,7 +1,6 @@
 sklearn
 numpy
 pandas
-os
 time
 tensorflow
 seaborn
