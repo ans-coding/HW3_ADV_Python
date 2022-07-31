@@ -5,3 +5,6 @@ tensorflow
 seaborn
 matplotlib
 tensorflow_datasets
+nltk
+json
+pickle
