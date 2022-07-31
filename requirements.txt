@@ -4,3 +4,5 @@ pandas
 os
 time
 tensorflow
+seaborn
+matplotlib
