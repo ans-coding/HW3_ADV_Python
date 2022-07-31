@@ -1,7 +1,6 @@
 sklearn
 numpy
 pandas
-time
 tensorflow
 seaborn
 matplotlib
